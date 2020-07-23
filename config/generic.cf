@@ -1,0 +1,107 @@
+/* Automagically generated - edits will be lost */
+/* Configure last updated 2015/11/18 23:39:08  */
+/* This file created      2020/05/04 11:08:09 */
+/* By                     /bin/sh version 3.2.57(1)-release */
+
+#ifndef OSName
+#define OSName            Darwin 19.4.0
+#endif
+XCOMM hardware:              i386
+XCOMM operating system:      Darwin 19.4.0
+XCOMM operating system path: darwin.19.4.0.i386
+#ifndef OSMajorVersion
+#define OSMajorVersion    19
+#endif
+#ifndef OSMinorVersion
+#define OSMinorVersion    4
+#endif
+#ifndef OSTeenyVersion
+#define OSTeenyVersion    0
+#endif
+#ifndef PlatformNameForInstallPath
+#define PlatformNameForInstallPath    darwin.19.4.0.i386
+#endif
+#ifndef LexCmd
+#define LexCmd flex
+#endif
+#ifndef LexLib
+#define LexLib -lfl
+#endif
+#ifndef CompressCmd
+#define CompressCmd bzip2
+#endif
+#ifndef UnCompressCmd
+#define UnCompressCmd bzip2 -d
+#endif
+#ifndef CompressExtension
+#define CompressExtension bz2
+#endif
+#ifndef AnsiCCmd
+#define AnsiCCmd gcc
+#endif
+#ifndef CPlusPlusCmd
+#define CPlusPlusCmd g++
+#endif
+#ifndef AnsiCUnoptimizedDebugFlags
+#define AnsiCUnoptimizedDebugFlags NeedMissingPrototypes
+#endif
+#ifndef AnsiCOptimizedDebugFlags
+#define AnsiCOptimizedDebugFlags OptimizeLevel NeedMissingPrototypes
+#endif
+#ifndef CPlusPlusUnoptimizedDebugFlags
+#define CPlusPlusUnoptimizedDebugFlags NeedMissingPrototypes -Wno-deprecated
+#endif
+#ifndef CPlusPlusOptimizedDebugFlags
+#define CPlusPlusOptimizedDebugFlags OptimizeLevel NeedMissingPrototypes -Wno-deprecated
+#endif
+#ifndef DisplayDependFlags
+#define DisplayDependFlags
+#endif
+#ifndef MakedependCmd
+#define MakedependCmd /opt/X11/bin/makedepend
+#endif
+#ifndef X11LibraryPath
+#define X11LibraryPath /opt/X11/lib
+#endif
+#ifndef X11IncludePath
+#define X11IncludePath /opt/X11/include
+#endif
+#ifndef HasGetHostID
+#define HasGetHostID 1
+#endif
+#ifndef HasGetHostIDPrototype
+#define HasGetHostIDPrototype 1
+#endif
+#ifndef UseDumbInfinityAndNAN
+#define UseDumbInfinityAndNAN 1
+#endif
+#ifndef UseGlibcTimezone
+#define UseGlibcTimezone 1
+#endif
+#ifndef NeedMissingPrototypes
+#define NeedMissingPrototypes
+#endif
+#ifndef UseXMitShmExtension
+#define UseXMitShmExtension 0
+#endif
+#ifndef HasGetHostID
+#define HasGetHostID 0
+#endif
+#ifndef HasStdNameSpaceForStreamPos
+#define HasStdNameSpaceForStreamPos 0
+#endif
+#ifndef UseStandardHeadersWithoutExtension
+#define UseStandardHeadersWithoutExtension 0
+#endif
+#ifndef EmitUsingStdNameSpace
+#define EmitUsingStdNameSpace 0
+#endif
+#ifndef SystemIncludeOption
+#define SystemIncludeOption -I
+#endif
+#ifndef UseGlibcTimezone
+#define UseGlibcTimezone 0
+#endif
+#ifndef ExecutableSuffix
+#define ExecutableSuffix
+#endif
